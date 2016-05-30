@@ -22,7 +22,7 @@ pod "XBHSeparatorView"
 
 ## Author
 
-xiebohui, bohui.xie@dianping.com
+xiebohui, xiebohui2014@163.com
 
 ## License
 
