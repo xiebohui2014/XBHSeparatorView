@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'XBHSeparatorView_Example' do
+  pod 'XBHSeparatorView', :path => '../'
+end

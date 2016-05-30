@@ -1,0 +1,14 @@
+PODS:
+  - XBHSeparatorView (0.1.0)
+
+DEPENDENCIES:
+  - XBHSeparatorView (from `../`)
+
+EXTERNAL SOURCES:
+  XBHSeparatorView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XBHSeparatorView: 0671679e668479e896a2b01f656f10429e326e7e
+
+COCOAPODS: 0.39.0

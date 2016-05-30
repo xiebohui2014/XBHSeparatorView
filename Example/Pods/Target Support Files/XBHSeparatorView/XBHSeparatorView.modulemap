@@ -1,0 +1,6 @@
+framework module XBHSeparatorView {
+  umbrella header "XBHSeparatorView-umbrella.h"
+
+  export *
+  module * { export * }
+}

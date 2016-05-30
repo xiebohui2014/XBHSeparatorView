@@ -1,0 +1,22 @@
+{
+  "name": "XBHSeparatorView",
+  "version": "0.1.0",
+  "summary": "A short description of XBHSeparatorView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/XBHSeparatorView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiebohui": "bohui.xie@dianping.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/XBHSeparatorView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XBHSeparatorView/Classes/**/*"
+}
