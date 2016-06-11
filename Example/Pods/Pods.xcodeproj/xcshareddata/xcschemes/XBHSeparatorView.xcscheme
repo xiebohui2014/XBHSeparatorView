@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '55679BD45C27E4DE2263C8A6'
+               BlueprintIdentifier = '9D41AB14F1F1E1CBC37A3002'
                BlueprintName = 'XBHSeparatorView'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'XBHSeparatorView.framework'>

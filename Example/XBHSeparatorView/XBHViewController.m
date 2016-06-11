@@ -7,8 +7,11 @@
 //
 
 #import "XBHViewController.h"
+#import "XBHSeparatorBackgroundView.h"
 
 @interface XBHViewController ()
+
+@property (nonatomic, strong) XBHSeparatorBackgroundView *backgroundView;
 
 @end
 
@@ -17,13 +20,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    self.backgroundView = [XBHSeparatorBackgroundView new];
+    self.backgroundView.separatorPosition = XBHSeparatorPositionTop | XBHSeparatorPositionBottom;
+    [self.view addSubview:self.backgroundView];
+    self.backgroundView.frame = CGRectMake(100, 100, 200, 200);
 }
 
 @end
